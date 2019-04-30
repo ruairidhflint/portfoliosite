@@ -3485,3 +3485,7 @@ input, select, textarea {
 			}
 
 	}
+
+	span:hover {
+		opacity: 0.7;
+	}
